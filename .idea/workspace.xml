@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4fb34f-1059-4d37-9891-53029c6c104a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/SumAges.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/BooleanVariable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/ConditionalIf.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mooc-intro.iml" afterPath="$PROJECT_DIR$/mooc-intro.iml" />
     </list>
     <ignored path="mooc-intro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,11 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumAges.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumAges.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/SumAges.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConditionalIf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ConditionalIf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BooleanVariable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BooleanVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -75,6 +95,9 @@
         <option value="$PROJECT_DIR$/src/com/company/CalculateCircumference.java" />
         <option value="$PROJECT_DIR$/src/com/company/BiggerNumber.java" />
         <option value="$PROJECT_DIR$/src/com/company/SumAges.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ConditionalIn.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ConditionalIf.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BooleanVariable.java" />
       </list>
     </option>
   </component>
@@ -193,47 +216,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SumAges">
-    <configuration default="false" name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Addition" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mooc-intro" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="InputDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.InputDivide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mooc-intro" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BooleanVariable">
     <configuration default="false" name="CalculateCircumference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -254,14 +237,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="BiggerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SumAges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.BiggerNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.company.SumAges" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -274,14 +257,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SumAges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ConditionalIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.SumAges" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ConditionalIn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mooc-intro" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConditionalIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.ConditionalIf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mooc-intro" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BooleanVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.BooleanVariable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -526,19 +549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Addition" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InputDivide" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BiggerNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SumAges" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SumAges" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConditionalIn" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConditionalIf" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BooleanVariable" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SumAges" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BiggerNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InputDivide" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Addition" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BooleanVariable" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConditionalIf" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConditionalIn" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SumAges" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
       </list>
     </recent_temporary>
   </component>
@@ -841,6 +864,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ConditionalIf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BooleanVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
           <folding />
         </state>
       </provider>
