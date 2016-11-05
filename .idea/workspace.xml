@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4fb34f-1059-4d37-9891-53029c6c104a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/BiggerNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/CalculateCircumference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/InputDivide.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/mooc-intro/com/company/Addition.class" afterPath="$PROJECT_DIR$/out/production/mooc-intro/com/company/Addition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/SumAges.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mooc-intro.iml" afterPath="$PROJECT_DIR$/mooc-intro.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Addition.java" afterPath="$PROJECT_DIR$/src/com/company/Addition.java" />
     </list>
     <ignored path="mooc-intro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,51 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Greeting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Greeting.java">
+      <file leaf-file-name="SumAges.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SumAges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputAdd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/InputAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputDivide.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/InputDivide.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculateCircumference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CalculateCircumference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BiggerNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BiggerNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="435">
+              <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -118,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/com/company/InputDivide.java" />
         <option value="$PROJECT_DIR$/src/com/company/CalculateCircumference.java" />
         <option value="$PROJECT_DIR$/src/com/company/BiggerNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SumAges.java" />
       </list>
     </option>
   </component>
@@ -233,30 +190,10 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Other-Programming/selenium-server-standalone-3.0.1.jar!/trax" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CalculateCircumference">
-    <configuration default="false" name="SecondsInAYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.SecondsInAYear" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mooc-intro" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SumAges">
     <configuration default="false" name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -325,6 +262,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.BiggerNumber" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mooc-intro" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SumAges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.SumAges" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -569,19 +526,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SecondsInAYear" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Addition" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InputDivide" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BiggerNumber" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Addition" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InputDivide" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BiggerNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumAges" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BiggerNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InputDivide" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Addition" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SecondsInAYear" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SumAges" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CalculateCircumference" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BiggerNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InputDivide" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -840,18 +797,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Greeting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CalculateCircumference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/InputAdd.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/BiggerNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
           <folding />
         </state>
       </provider>
@@ -864,18 +821,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalculateCircumference.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/InputAdd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BiggerNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Greeting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SumAges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
           <folding />
         </state>
       </provider>
